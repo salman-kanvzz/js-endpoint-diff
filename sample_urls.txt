@@ -1,0 +1,3 @@
+# Example JS URLs (replace with authorized targets)
+# https://example.com/static/js/app.js
+# https://example.com/static/js/chunk-vendors.js
